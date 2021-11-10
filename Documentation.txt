@@ -1,0 +1,30 @@
+Aiden Thinn
+IGME-330
+Project 2: HTML Game
+
+I am using Canvas, ES6 Classes, ES6 Modules, and ES6->ES5 Transpiling for my technology stack.
+
+To fulfill the media requirment, I have a background sound that loops, there are various effect sounds in the game, and the sound files are kept at a small size.
+I did not use the sounds provided in class. For images, I have PNGs that are used with a consistent theme, and text is readable with images drawn on the canvas with
+canvas capabilities used.
+
+To fulfill the interaction requirment, player can use the mouse in order to interact with the sprites on the screen. My controls are easy, and responsive, with
+scenes changes and cut scenes between each level.
+
+To fulfill usability requirment, I have instructions provided before each level, and the levels are relatively balanced. The game contains a title screen, with five levels,
+two different end screens, and a variety of end level screens in between each level. I also included my name on the title screen.
+
+To fulfill the game design requirment, I have met my plan of making an advanced Cage Clicker by changing the game completely and adding a lot more depth and story
+instead of just player clicking on the game. There is a win and lose condiition, the player choices matter in a way that it gives them two different endings depending
+on how well they do in the game, and the game has a storyline and my sprites are all made by me.
+
+To fulfill the coding requirment, I used the howlerjs, used one of the tech stack and met the requirments, all JS code use object literals, preload images,
+use module patterns, and it is all well commented.
+
+If I had more time, I would like to add animations to the cut scenes, as well as a better UI for the title screen.
+
+I believe this project should be graded 95.
+
+Credits:
+Background Song: https://www.youtube.com/watch?v=Y77l1koME64
+Effect Sounds are from 1001 Sound Clips provided in 2D Animation Class (IGME 119).
